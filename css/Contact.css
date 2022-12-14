@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: blanchedalmond;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul{
+    list-style-type: none;
+    background-color: rgb(248, 209, 152);
+    padding: 25px;
+    margin: 0;
+    text-align: center;
+
+}
+
+li{
+    display: inline;
+    word-spacing: 100px;
+}
+
+form{
+    background-color: rgb(248, 209, 152);
+    padding: 100px;
+    border: 100px;
+    width: 500px;
+    margin: auto;
+    border: 2px solid rgb(223, 178, 120);
+
+}
+
+label{
+    font-size: large;
+}
+
+input[type="text"]{
+ border-color: brown;
+ border-radius: 5px;
+}

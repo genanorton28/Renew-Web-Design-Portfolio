@@ -1,0 +1,47 @@
+body{
+    background-color: blanchedalmond;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  margin: 2px;
+  padding: 2px;
+}
+
+.content{
+    margin: auto;
+    width: 800px;
+}
+
+ul{
+    list-style-type: none;
+    background-color: rgb(248, 209, 152);
+    padding: 25px;
+    margin: 0;
+    text-align: center;
+
+}
+
+li{
+    display: inline;
+    word-spacing: 100px;
+}
+
+/* .game{
+    background-color: azure;
+    height: 500px;
+    width: 600px;
+    display: block;
+    
+} */
+
+.photo{
+    background-color: azure;
+    height: 400px;
+    width: 400px;
+    float: left;
+}
+
+img{
+    padding: 40px;
+    height: 200px;
+    width: 300px;
+}
